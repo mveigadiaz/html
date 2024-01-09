@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <title>208</title>
+  </head>
+  <body>
+    <p><h1>Internet</h1></p>
+    <p><h2>Contenido</h2></p>
+    <ol>
+        <li>Principales protocolos</li>
+        <li>Formas de conectarse</li>
+    </ol>
+    <p><h2>1. Principales protocolos</h2></p>
+    <ul>
+        <li>Transmisión de ficheros:</li>
+            <ul>
+                <li>FTP</li>
+            </ul>
+        <li>Correo electrónico:</li>
+            <ul>
+                <li>IMAP</li>
+                <li>POP</li>
+                <li>SMTP</li>
+            </ul>
+    </ul>
+    <p><h2>2. Formas de conectarse</h2></p>
+    <p>Red Telefónica Conmutada (RTC)</p>
+    <p>&emsp;La línea telefónica de toda la vida. Para acceder a Internet es necesario un módem.</p>
+  </body>
